@@ -8,8 +8,6 @@ This project is an html personal page. That is composed of the many sections as 
 - [Technologies](#technologies)
 - [Structure](#structure)
 - [Usage](#usage)
-- [Meta Tags](#meta-tags)
-- [Styling](#styling)
 - [Contact](#contact)
 
 ## Demo
